@@ -29,11 +29,11 @@ ctx.stroke();
 ctx.beginPath();
 ctx.strokeStyle= "orange";
 ctx.lineWidth = 1;
-ctx.arc(300,210, 40 ,0 , 2 * Math.PI);
+ctx.arc(300,250, 40 ,0 , 2 * Math.PI);
 ctx.stroke();
 
 ctx.beginPath();
 ctx.strokeStyle= "green";
 ctx.lineWidth = 1;
-ctx.arc(400,210, 40 ,0 , 2 * Math.PI);
+ctx.arc(400,250, 40 ,0 , 2 * Math.PI);
 ctx.stroke();
